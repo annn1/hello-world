@@ -1,2 +1,2 @@
 # hello-world
-My first repository on GitHub. Change in local.
+My first repository on GitHub. Change in local and on remote.
