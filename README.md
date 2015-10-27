@@ -1,2 +1,2 @@
 # hello-world
-My first repository on GitHub. 26 Oct 2015
+My first repository on GitHub. Change in local.
